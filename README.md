@@ -1,2 +1,2 @@
 # SDL_TD
-- auf das alle Mexikaner geunfden werden
+- auf das alle Mexikaner gefunden werden
